@@ -1,0 +1,6 @@
+{
+  "name": "Spreadsheet Kinerja R&D Aplikasi & Rapor Siswa",
+  "description": "Sistem spreadsheet pemantauan progres kinerja staf R&D Aplikasi dan Rapor Siswa (Rizki, Gia, Sony, Kenny) dengan indikator bulanan dan persentase capaian otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
